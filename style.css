@@ -38,6 +38,9 @@ figure{
 .cassecouille{
     width: 300px;
 }
+li{
+    list-style: none;
+}
 
 /* grid  */
 #grid{
